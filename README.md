@@ -1,4 +1,4 @@
-**Text Embeddings Using Hugging Face
+****Text Embeddings Using Hugging Face
 Project Overview**
 This project demonstrates how to convert text documents into numerical vectors using Hugging Face sentence-transformer embeddings and LangChain. These vectors can be used in semantic search, document retrieval, and Retrieval-Augmented Generation (RAG) applications.
 **Features
@@ -20,3 +20,4 @@ python embeddings.py
 The script generates an embedding vector for each input document and displays the number of vectors and the dimensions of an individual vector.
 Learning Outcome
 Learned how text embeddings represent natural language as numerical vectors and how these representations form a foundation for semantic search and RAG applications.
+**
